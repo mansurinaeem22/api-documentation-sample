@@ -1,4 +1,4 @@
-# 🔌 API Documentation Sample
+# API Documentation Sample
 
 ## Endpoint: /login
 
@@ -19,13 +19,13 @@
 
 ---
 
-## 📘 Description
+## Description
 
 This API allows users to log into the system and receive an authentication token.
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 * API Documentation
 * Structured Writing
